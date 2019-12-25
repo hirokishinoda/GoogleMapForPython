@@ -1,0 +1,1 @@
+# GoogleMap APIを使ってPythonでなにかする
