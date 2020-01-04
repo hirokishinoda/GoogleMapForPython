@@ -1,6 +1,9 @@
 reated by https://www.gitignore.io/api/python,dotenv,jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=python,dotenv,jupyternotebooks
 
+# HTML
+*.html
+
 ### dotenv ###
 .env
 
